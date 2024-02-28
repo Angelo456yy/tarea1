@@ -1,0 +1,14 @@
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\bin\Debug\net8.0\Calcular.exe
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\bin\Debug\net8.0\Calcular.deps.json
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\bin\Debug\net8.0\Calcular.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\bin\Debug\net8.0\Calcular.dll
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\bin\Debug\net8.0\Calcular.pdb
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\obj\Debug\net8.0\Calcular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\obj\Debug\net8.0\Calcular.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\obj\Debug\net8.0\Calcular.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\obj\Debug\net8.0\Calcular.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\obj\Debug\net8.0\Calcular.dll
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\obj\Debug\net8.0\refint\Calcular.dll
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\obj\Debug\net8.0\Calcular.pdb
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\obj\Debug\net8.0\Calcular.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\proyect\Calcular\Calcular\obj\Debug\net8.0\ref\Calcular.dll

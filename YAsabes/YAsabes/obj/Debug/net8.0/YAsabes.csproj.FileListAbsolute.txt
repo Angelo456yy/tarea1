@@ -1,0 +1,14 @@
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\bin\Debug\net8.0\YAsabes.exe
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\bin\Debug\net8.0\YAsabes.deps.json
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\bin\Debug\net8.0\YAsabes.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\bin\Debug\net8.0\YAsabes.dll
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\bin\Debug\net8.0\YAsabes.pdb
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\obj\Debug\net8.0\YAsabes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\obj\Debug\net8.0\YAsabes.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\obj\Debug\net8.0\YAsabes.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\obj\Debug\net8.0\YAsabes.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\obj\Debug\net8.0\YAsabes.dll
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\obj\Debug\net8.0\refint\YAsabes.dll
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\obj\Debug\net8.0\YAsabes.pdb
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\obj\Debug\net8.0\YAsabes.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\proyect\YAsabes\YAsabes\obj\Debug\net8.0\ref\YAsabes.dll
